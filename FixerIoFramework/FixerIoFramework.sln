@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixerIoFramework", "FixerIoFramework\FixerIoFramework.csproj", "{97A9D48D-C473-4453-9547-B251D582621F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A9D48D-C473-4453-9547-B251D582621F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A9D48D-C473-4453-9547-B251D582621F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A9D48D-C473-4453-9547-B251D582621F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A9D48D-C473-4453-9547-B251D582621F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89A2462-6A0D-40B6-81EE-69C1B31D8E50}
+	EndGlobalSection
+EndGlobal
